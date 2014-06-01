@@ -1,0 +1,24 @@
+{
+  "name": "html-enclose",
+  "version": "0.0.1",
+  "description": "Enclose the string HTML tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "colored-tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/html-enclose/git"
+  },
+  "keywords": [
+    "html",
+    "tag"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^0.4.9",
+    "colored-tape": "^1.0.1"
+  }
+}
