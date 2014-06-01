@@ -10,6 +10,17 @@ $ npm install html-enclose
 
 ## Example
 
+```javascript
+var enclose = require('html-enclose');
+
+var str = "sample string";
+
+enclose(str, 'p');
+/*
+ *  <p>sample string</p>
+ */
+```
+
 ## License
 
 The MIT License (MIT)
